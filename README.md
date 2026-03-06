@@ -3,6 +3,7 @@
 A **Spring Boot** application that supports both **B2B (Theatre partners)** and **B2C (End customers)** for online movie ticket booking.  
 It provides functionality for **browsing shows, booking tickets, bulk operations, payments**, and includes **logging, optimistic locking, idempotency, security, and metric monitoring**.
 
+# Project is on a new branch created as master branch
 ---
 
 ## Table of Contents
@@ -58,10 +59,9 @@ The application follows a **layered architecture**:
 
 ---
 
-## Project Structure
-
 
 ## TODO
 - **AOP + MDC logging** for structured payment and booking logs.
 - **Metrics collection** using **Micrometer**, integrable with **Prometheus** or any external monitoring system.
+- **How do you monetize the  platform**
 
